@@ -1,2 +1,1 @@
-# Prep-course
-Probando Repositorio
+Este proyecto es una prueba de como crear una repositorio local y clonarlo desde github
